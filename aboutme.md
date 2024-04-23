@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre
+subtitle: Venha me conhecer!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Eduardo, sou um desenvolvedor de software e um grande fã de tecnologia. Eu sou apaixonado por aprender e compartilhar conhecimento. Eu sou um grande fã de código aberto e de comunidades de software livre.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Tecnologias que eu gosto de trabalhar:
 
-What else do you need?
+- Python
+- Django
+- Flask
+- Docker
+- Kubernetes
+- Git
+- Linux
+- AWS
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
