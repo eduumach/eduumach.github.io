@@ -4,6 +4,8 @@ title: Python - Serie
 subtitle: Aprenda Python de forma prática e divertida!
 ---
 
-Em construção... Aguarde novos episódios em breve! 🚀
+A ideia dessa pagina é direcionar as postagens sobre python do blog para que seja facil de achar dividido por categorias.
 
-Vou fazer postes sobre python, desde o básico até o avançado. Vou mostrar e direcionar aqui nessa página todos os postes da série.
+## Introdução ao Python
+
+- [Introdução ao Python - Instalação e Configuração](/2024-04-24-introducao-ao-python-instalacao-configuracao/)
